@@ -1,0 +1,7 @@
+﻿  GlobalFunctions.cpp
+  Laborator2_2.cpp
+G:\Facultate\OOP\Laborator2_2\Laborator2_2\Laborator2_2.cpp(8,17): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\Facultate\OOP\Laborator2_2\Laborator2_2\Laborator2_2.cpp(10,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  student.cpp
+  Generating Code...
+  Laborator2_2.vcxproj -> G:\Facultate\OOP\Laborator2_2\Debug\Laborator2_2.exe
